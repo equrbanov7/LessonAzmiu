@@ -1,0 +1,20 @@
+
+ul{
+    list-style: none;
+
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 20px;
+    background-color:  green;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+ul li:hover{
+    background-color: #fff;
+    color: green;
+    border: 1px solid green;
+    cursor: pointer;
+}
